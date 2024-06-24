@@ -113,7 +113,49 @@
 
             #endregion
 
+            #region Convert
 
+            //Convert [Class Containing set of methods used for casting from datatype to another]
+
+            //Console.Write("Please Enter Your Name : ");
+            //String Name = Console.ReadLine() ?? "NA";
+
+            //Console.Write("Please Enter Your Age : ");
+            //int Age  = Convert.ToInt32(Console.ReadLine());
+
+            //Console.Write("Please Enter Your salary : ");
+            //decimal Salary = Convert.ToDecimal(Console.ReadLine());
+
+            //Console.Clear();
+
+            //Console.WriteLine($"Your Name is {Name}");
+            //Console.WriteLine($"Your Age is {Age}");
+            //Console.WriteLine($"Your Salary is {Salary}");
+
+            #endregion
+
+            #region Parse
+
+            //Parse : [is a method used for catsing from string to the caller datatype]
+
+
+            //Console.Write("Please Enter Your Name : ");
+            //String Name = Console.ReadLine() ?? "NA";
+
+            //Console.Write("Please Enter Your Age : ");
+            //int Age = int.Parse(Console.ReadLine() ?? "0");
+
+            //Console.Write("Please Enter Your salary : ");
+            //decimal Salary = decimal.Parse(Console.ReadLine() ?? "0");
+
+            //Console.Clear();
+
+            //Console.WriteLine($"Your Name is {Name}");
+            //Console.WriteLine($"Your Age is {Age}");
+            //Console.WriteLine($"Your Salary is {Salary}");
+
+
+            #endregion
         }
     }
 }
