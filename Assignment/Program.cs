@@ -4,7 +4,17 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            #region Comments
+            // Single Line Comment
+
+            /*
+             * 
+             * Multi 
+             * Line
+             * Comment
+             * 
+             * */
+            #endregion
         }
     }
 }
