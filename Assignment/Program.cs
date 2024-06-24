@@ -246,6 +246,19 @@
 
             #endregion
 
+            #region Operation Priority
+            /*
+                 * 1. unary operator 
+                 * 2. Round braces
+                 * 3. * / %
+                 * 4. + - 
+                 */
+
+            int Equation = 4 + 3 * 8;
+            Console.WriteLine(Equation); 
+            #endregion
+
+
         }
     }
 }
