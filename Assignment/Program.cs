@@ -237,7 +237,15 @@
 
             #endregion
 
-           
+            #region TryParse
+
+            //String x = "10";
+            //int y;
+            //int.TryParse(x, out y);
+            //Console.WriteLine(y);
+
+            #endregion
+
         }
     }
 }
