@@ -22,6 +22,24 @@
 
             #endregion
 
+            #region 3-Write C# program that Perform a simple arithmetic operation with floating-point numbers And mention what will happen
+
+            //float Number1 = 5.75f;
+            //float Number2 = 2.5f;
+
+            //float Sum = Number1 + Number2;
+            //float Subtract = Number1 - Number2;
+            //float Product = Number1 * Number2;
+            //float Division = Number1 / Number2;
+
+            //Console.WriteLine("Float Operations:");
+            //Console.WriteLine($"Sum: {Sum}");
+            //Console.WriteLine($"Subtraction: {Subtract}");
+            //Console.WriteLine($"Product: {Product}");
+            //Console.WriteLine($"Division: {Division}");
+
+            #endregion
+
 
         }
     }
