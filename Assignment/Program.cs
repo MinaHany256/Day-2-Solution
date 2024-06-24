@@ -59,7 +59,19 @@
 
             #endregion
 
+            #region 6-Write C# program that Assigning one reference type variable to another and modifying the object through one variable and mention what will happen
 
+            //Point P1;
+
+            //P1 = new Point();
+
+            //Point P2 = new Point();
+
+            //P2 = P1;
+            //P2.x = 6;
+            //Console.WriteLine(P1.x);
+
+            #endregion
         }
     }
 }
