@@ -142,6 +142,17 @@ namespace Assignment
 
             #endregion
 
+            #region 12-	 What is the output of the following C# code?  
+
+            //Given Code 
+            DateTime date = new DateTime(2024, 6, 14);
+            Console.WriteLine($"The event is on {date:MM/dd/yyyy}");
+
+            //Correct answer 
+            //a) The event is on 06/14/2024
+
+            #endregion
+
 
         }
     }
