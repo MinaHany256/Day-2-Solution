@@ -47,6 +47,19 @@
             //Console.WriteLine(substring);
 
             #endregion
+
+            #region 5-Write C# program that Assigning one value type variable to another and modifying the value of one variable and mention what will happen
+
+            //int Number01;
+            //Number01 = 5;
+            //int Number02 = 10;
+            //Number02 = Number01;   // Number02 = 5
+            //Number01++;            // Number01 = 6
+            //Console.WriteLine(Number02);  // Print 5 
+
+            #endregion
+
+
         }
     }
 }
