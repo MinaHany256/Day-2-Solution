@@ -15,6 +15,17 @@
              * 
              * */
             #endregion
+
+            #region Declaring Variables
+            //int id = 10;
+
+            ////PascalCase -> FirstName
+            ////CamelCase  -> firstName 
+            ////kababCase  -> first-name  [Angular Files Names]
+
+
+            //Console.WriteLine(id); 
+            #endregion
         }
     }
 }
