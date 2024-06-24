@@ -92,6 +92,27 @@
             //Console.WriteLine(Number); 
             #endregion
 
+            #region Implicit Casting VS Explicit Casting
+
+            //int x = 10;
+
+            //long y = /*(long)*/ x;  //Implicit Casting  [Safe Casting]
+
+            //long x = 8;
+
+            //checked
+            //{
+            //    int y = (int)x;   //Explicit Casting 
+            //    unchecked
+            //    {
+            //        Console.WriteLine(y); 
+            //    }
+            //}
+
+
+
+            #endregion
+
 
         }
     }
