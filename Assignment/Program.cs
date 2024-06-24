@@ -40,7 +40,13 @@
 
             #endregion
 
+            #region 4-Write C# program that Extract a substring from a given string.
 
+            //string originalString = "Back end Diploma";
+            //string substring = originalString.Substring(0, 5);
+            //Console.WriteLine(substring);
+
+            #endregion
         }
     }
 }
