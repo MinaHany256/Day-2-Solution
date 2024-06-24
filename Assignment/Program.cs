@@ -156,6 +156,88 @@
 
 
             #endregion
+
+            #region Operators
+
+            #region Unary
+            //// Unary 
+            //int x = 10;
+            ///*Prefix*/ Console.WriteLine(++x); // 11
+            ///*Posfix*/ Console.WriteLine(x++); // 10
+
+            ///*Prefix*/
+            //Console.WriteLine(--x); // 9
+            ///*Posfix*/
+            //Console.WriteLine(x--); // 10 
+            #endregion
+
+            #region Binary
+
+            //int Sum, Mul, Div, Sub, Mod;
+            //int Num01 = 2;
+            //int Num02 = 6;
+
+            //Sum = Num01 + Num02;
+            //Mul = Num01 * Num02;
+            //Div = Num01 / Num02;
+            //Sub = Num02 - Num01;
+            //Mod = Num02 % Num01;
+
+            #endregion
+
+            #region Assignment
+
+            //int x;
+            //x = 4;
+            //x += 2;
+            //x -= 2;
+            //x *= 2;
+            //x /= 2;
+            //x %= 2;
+
+
+            #endregion
+
+            #region Relational
+
+            //int x = 6 , y = 5 ;
+            //Console.WriteLine(x==y);
+            //Console.WriteLine(x!=y);
+            //Console.WriteLine(x>y);
+            //Console.WriteLine(x>=y);
+            //Console.WriteLine(x<=y);
+            //Console.WriteLine(x<y);
+            //Console.WriteLine(x<=y);
+
+            #endregion
+
+            #region Logical
+
+            //Console.WriteLine(!false);
+            //Console.WriteLine(false && true);
+            //Console.WriteLine(true || false);
+
+
+            #endregion
+
+            #region Bitwise
+
+            //Console.WriteLine(~0);   // print 1
+            //Console.WriteLine(false & true); //Long circuit
+            //Console.WriteLine(true | false);
+
+            #endregion
+
+            #region Ternary
+
+            //bool Flag = 4 > 2 ? true : false;
+            //Console.WriteLine(Flag);
+
+            #endregion
+
+            #endregion
+
+           
         }
     }
 }
