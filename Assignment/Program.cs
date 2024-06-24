@@ -81,6 +81,18 @@
 
             #endregion
 
+            #region Fractions and Discards
+            //double x = 5.34;
+            ////float y = 1.0; //ERROR
+            //float y = 1.0f;
+            //decimal z = 854.3m;
+
+            ////Discard  (Just for readability)
+            //long Number = 100_000_000_000;
+            //Console.WriteLine(Number); 
+            #endregion
+
+
         }
     }
 }
