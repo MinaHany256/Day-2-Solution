@@ -165,10 +165,26 @@ namespace Assignment
 
             #region 14-	Which of the following is the correct output for the C# code given below?
 
-            Console.WriteLine(13 / 2 + " " + 13 % 2);
+            //Console.WriteLine(13 / 2 + " " + 13 % 2);
 
             //correct answer
             // 6  1
+
+            #endregion
+
+            #region 15-What will be the output of the C# code given below?
+            //int num = 1, z = 5;
+
+            //if (!(num <= 0))
+            //    Console.WriteLine(++num + z++ + " " + ++z);
+            //else
+            //    Console.WriteLine(--num + z-- + " " + --z);
+
+            //correct answer is  7  7
+
+
+
+
 
             #endregion
         }
